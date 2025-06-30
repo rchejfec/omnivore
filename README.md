@@ -10,7 +10,7 @@
 
 [Omnivore](https://omnivore.app) is a complete, open source read-it-later solution for people who like text.
 
-We built Omnivore because we love reading and we want it to be more social. Join us!
+We built Omnivore because we love reading and we want it to be more social. Join us! (a)
 
 - Highlighting, notes, search, and sharing
 - Full keyboard navigation
